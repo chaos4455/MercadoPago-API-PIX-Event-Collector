@@ -46,7 +46,13 @@ O principal objetivo do projeto é fornecer uma solução confiável e escaláve
 Sou **Elias Andrade**, um profissional de TI com mais de 14 anos de experiência em infraestrutura e mais de 8 anos de aprendizado em Python. Meu foco atual está em desenvolver habilidades em **arquitetura de software**, **DDD**, e **Clean Architecture**, sempre buscando aprimorar a forma como construo aplicações e sistemas.
 
 
-# 🌳 Estrutura da Arquitetura do Projeto PixHub MVC V2 Melhorado
+# 🌳 Estrutura da Arquitetura do Projeto PixHub MVC V2 
+
+![heatmap_total_tipo_pagamento_moeda](https://github.com/user-attachments/assets/3a0157d9-1f32-4e21-82f9-1fcc48bc6bff)
+![heatmap_7_payment_type_id_date_created](https://github.com/user-attachments/assets/e4ac12b5-de9e-44b5-801f-8997c92076f9)
+![heatmap_8_currency_id_date_created](https://github.com/user-attachments/assets/ca6e84e4-5629-4897-bee2-834712880ea7)
+![heatmap_payment_type_account_money](https://github.com/user-attachments/assets/168c1ba2-57d2-4cdf-a9c9-c2cdd32d4612)
+
 
 ## 📁 Projeto Principal
 ![Projeto Principal](https://img.shields.io/badge/Projeto%20Principal-blue?style=flat-square)
