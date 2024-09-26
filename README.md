@@ -19,11 +19,7 @@ Este projeto está atualmente em **desenvolvimento**. ✨ Novas funcionalidades 
 
 🔍 **Atenção**: O projeto não é funcional neste momento, pois as **API Key** 🔑 e a **chave criptografada** 🔒 necessárias para a integração com a API do Mercado Pago **não estão disponíveis** neste repositório. 
 
-🚀 **Como Contribuir**:
-- Se você estiver interessado em contribuir, por favor, clone o repositório e configure suas próprias credenciais.
-- Fique à vontade para abrir **issues** e sugerir melhorias! 💬
-
-Agradecemos a sua compreensão e apoio enquanto trabalhamos para melhorar este projeto! 🌟
+![Code_6s64MFZBZb](https://github.com/user-attachments/assets/8df0cbbf-ea2b-4707-96e5-9da7d103d2cd)
 
 ---
 
