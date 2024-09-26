@@ -11,6 +11,30 @@ O **MercadoPago-API-PIX-Event-Collector** é um coletor de eventos PIX desenvolv
 - **SQLAlchemy** 🗄️: ORM (Object-Relational Mapping) para facilitar a interação com o banco de dados.
 - **Mercado Pago API** 💳: Integração com a API do Mercado Pago para coletar eventos de transações PIX.
 
+## 🚧 Status do Desenvolvimento
+
+![Status do Projeto](https://img.shields.io/badge/Status-Em%20Desenvolvimento-orange.svg) ![Versão](https://img.shields.io/badge/Vers%C3%A3o-0.1.0-blue.svg) ![API Key](https://img.shields.io/badge/API%20Key-N%C3%A3o%20Dispon%C3%ADvel-red.svg)
+
+Este projeto está atualmente em **desenvolvimento**. ✨ Novas funcionalidades estão sendo planejadas e implementadas, e esperamos expandir as capacidades do coletor de eventos PIX em breve! 
+
+🔍 **Atenção**: O projeto não é funcional neste momento, pois as **API Key** 🔑 e a **chave criptografada** 🔒 necessárias para a integração com a API do Mercado Pago **não estão disponíveis** neste repositório. 
+
+🚀 **Como Contribuir**:
+- Se você estiver interessado em contribuir, por favor, clone o repositório e configure suas próprias credenciais.
+- Fique à vontade para abrir **issues** e sugerir melhorias! 💬
+
+Agradecemos a sua compreensão e apoio enquanto trabalhamos para melhorar este projeto! 🌟
+
+---
+
+### 🔔 O que vem a seguir?
+- Novas funcionalidades
+- Melhorias na documentação
+- Implementação de testes automatizados 🧪
+
+🔗 **Siga-nos para atualizações!** Fique atento às mudanças e melhorias que estão por vir! 🛠️
+
+
 ## 🚀 Objetivo do Projeto
 
 O principal objetivo do projeto é fornecer uma solução confiável e escalável para coletar e processar eventos de transações PIX através da API do Mercado Pago. Esta ferramenta é essencial para empresas que desejam monitorar suas transações financeiras em tempo real e reagir rapidamente a eventos críticos.
