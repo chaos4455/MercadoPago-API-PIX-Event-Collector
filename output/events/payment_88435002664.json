@@ -1,0 +1,144 @@
+{
+    "accounts_info": null,
+    "acquirer_reconciliation": [],
+    "additional_info": {
+        "authentication_code": null,
+        "available_balance": null,
+        "nsu_processadora": null
+    },
+    "authorization_code": null,
+    "binary_mode": true,
+    "brand_id": null,
+    "build_version": "3.70.0-rc-2",
+    "call_for_authorize_id": null,
+    "callback_url": null,
+    "captured": true,
+    "card": {},
+    "charges_details": [],
+    "collector_id": 113037075,
+    "corporation_id": null,
+    "counter_currency": null,
+    "coupon_amount": 0,
+    "currency_id": "BRL",
+    "date_approved": "2024-09-20T22:58:50.000-04:00",
+    "date_created": "2024-09-20T22:58:50.000-04:00",
+    "date_last_updated": "2024-09-20T22:58:53.000-04:00",
+    "date_of_expiration": "2024-09-21T22:58:50.000-04:00",
+    "deduction_schema": null,
+    "description": "Pago Bank Transfer Pix",
+    "differential_pricing_id": null,
+    "external_reference": null,
+    "fee_details": [],
+    "financing_group": null,
+    "id": 88435002664,
+    "installments": 1,
+    "integrator_id": null,
+    "issuer_id": "12501",
+    "live_mode": true,
+    "marketplace_owner": null,
+    "merchant_account_id": null,
+    "merchant_number": null,
+    "metadata": {},
+    "money_release_date": "2024-09-20T22:58:50.000-04:00",
+    "money_release_schema": null,
+    "money_release_status": "released",
+    "notification_url": null,
+    "operation_type": "regular_payment",
+    "order": {
+        "id": "23045607113",
+        "type": "mercadopago"
+    },
+    "payer": {
+        "id": "787877378"
+    },
+    "payment_method": {
+        "id": "pix",
+        "issuer_id": "12501",
+        "type": "bank_transfer"
+    },
+    "payment_method_id": "pix",
+    "payment_type_id": "bank_transfer",
+    "platform_id": null,
+    "point_of_interaction": {
+        "application_data": {
+            "name": "instore",
+            "version": "v2"
+        },
+        "business_info": {
+            "branch": "QR",
+            "sub_unit": "qr",
+            "unit": "wallet"
+        },
+        "forward_data": {
+            "destination_user_id": null,
+            "input_type": "dynamic_qr",
+            "marketplace": null,
+            "original_payment_id": null,
+            "user_role": null
+        },
+        "location": {
+            "source": "store",
+            "state_id": "BR-PR"
+        },
+        "sub_type": "INTER_PSP",
+        "transaction_data": {
+            "bank_info": {
+                "collector": {
+                    "account_holder_name": null,
+                    "account_id": 113037075,
+                    "long_name": "Mercadopago.com Representa\u00e7\u00f5es Ltda.",
+                    "transfer_account_id": null
+                },
+                "is_same_bank_account_owner": null,
+                "origin_bank_id": null,
+                "origin_wallet_id": null,
+                "payer": {
+                    "account_id": 787877378,
+                    "external_account_id": null,
+                    "id": null,
+                    "identification": {},
+                    "long_name": "Nu Pagamentos S.A."
+                }
+            },
+            "bank_transfer_id": 110702429515,
+            "e2e_id": null,
+            "financial_institution": 1,
+            "infringement_notification": {
+                "status": null,
+                "type": null
+            },
+            "qr_code": null,
+            "ticket_url": null,
+            "transaction_id": "PIXE18236120202409210258s10031cb47d"
+        },
+        "type": "INSTORE"
+    },
+    "pos_id": "92033761",
+    "processing_mode": "aggregator",
+    "refunds": [],
+    "release_info": null,
+    "shipping_amount": 0,
+    "sponsor_id": null,
+    "statement_descriptor": null,
+    "status": "approved",
+    "status_detail": "accredited",
+    "store_id": "58703611",
+    "tags": null,
+    "taxes_amount": 0,
+    "transaction_amount": 0.01,
+    "transaction_amount_refunded": 0,
+    "transaction_details": {
+        "acquirer_reference": null,
+        "bank_transfer_id": 110702429515,
+        "external_resource_url": null,
+        "financial_institution": "1",
+        "installment_amount": 0,
+        "net_received_amount": 0.01,
+        "overpaid_amount": 0,
+        "payable_deferral_period": null,
+        "payment_method_reference_id": null,
+        "total_paid_amount": 0.01,
+        "transaction_id": "PIXE18236120202409210258s10031cb47d"
+    },
+    "shipping_cost": 0
+}

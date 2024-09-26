@@ -1,0 +1,17 @@
+# config.yaml
+# Caminhos dos arquivos
+chave_secreta_path: "../config/chave_secreta.key"
+chave_api_path: "../config/api.key"
+controle_recibos_path: "../output/controle_recibos.json"
+licenca_path: "../config/data.lic"
+database_path: "../db/controle_usuarios.db" # Mantido o ajuste anterior
+# Configurações da API
+
+url_payments_search: "https://api.mercadopago.com/v1/payments/search"
+# Configuração de busca
+
+minutos_de_busca: 99999999
+# Identificação específica
+
+id_pos_valido: "92033761"
+nome_pos: "Caixa1"

@@ -1,0 +1,113 @@
+{
+    "accounts_info": null,
+    "acquirer_reconciliation": [],
+    "additional_info": {
+        "authentication_code": null,
+        "available_balance": null,
+        "nsu_processadora": null
+    },
+    "amounts": {
+        "collector": {
+            "currency_id": "BRL",
+            "net_received": 0.02,
+            "transaction": 0.02,
+            "transaction_destination": {
+                "fund_partition": "unavailable_by_credit_payment",
+                "reserve_id": "42930039200"
+            }
+        },
+        "exchange_broker": null,
+        "payer": {
+            "currency_id": "BRL",
+            "total_paid": 0.02,
+            "transaction": 0.02,
+            "transaction_detail": null,
+            "transaction_source": null
+        }
+    },
+    "authorization_code": null,
+    "binary_mode": true,
+    "brand_id": null,
+    "build_version": "3.70.0-rc-2",
+    "call_for_authorize_id": null,
+    "captured": true,
+    "card": {},
+    "charges_details": [],
+    "collector": {
+        "email": null,
+        "first_name": null,
+        "id": 502373144,
+        "identification": {
+            "number": null,
+            "type": null
+        },
+        "last_name": null,
+        "operator_id": null,
+        "phone": null
+    },
+    "corporation_id": null,
+    "counter_currency": null,
+    "coupon_amount": 0,
+    "currency_id": "BRL",
+    "date_approved": "2024-09-20T15:57:29.000-04:00",
+    "date_created": "2024-09-20T15:57:29.000-04:00",
+    "date_last_updated": "2024-09-20T15:57:32.000-04:00",
+    "date_of_expiration": null,
+    "deduction_schema": null,
+    "description": "Payments movement for debt engine linked accounts",
+    "differential_pricing_id": null,
+    "external_reference": "1477628399",
+    "fee_details": [],
+    "financing_group": null,
+    "id": 88396857090,
+    "installments": 1,
+    "integrator_id": null,
+    "issuer_id": "2007",
+    "live_mode": true,
+    "marketplace_owner": null,
+    "merchant_account_id": null,
+    "merchant_number": null,
+    "metadata": {},
+    "money_release_date": "2024-09-20T15:57:29.000-04:00",
+    "money_release_schema": null,
+    "money_release_status": "released",
+    "notification_url": null,
+    "operation_type": "money_transfer",
+    "order": {},
+    "payer_id": 113037075,
+    "payment_method": {
+        "id": "account_money",
+        "issuer_id": "2007",
+        "type": "account_money"
+    },
+    "payment_method_id": "account_money",
+    "payment_type_id": "account_money",
+    "platform_id": null,
+    "point_of_interaction": null,
+    "pos_id": null,
+    "processing_mode": "aggregator",
+    "refunds": [],
+    "release_info": null,
+    "shipping_amount": 0,
+    "sponsor_id": null,
+    "statement_descriptor": null,
+    "status": "approved",
+    "status_detail": "accredited",
+    "store_id": null,
+    "tags": null,
+    "taxes_amount": 0,
+    "transaction_amount": 0.02,
+    "transaction_amount_refunded": 0,
+    "transaction_details": {
+        "acquirer_reference": null,
+        "external_resource_url": null,
+        "financial_institution": null,
+        "installment_amount": 0,
+        "net_received_amount": 0.02,
+        "overpaid_amount": 0,
+        "payable_deferral_period": null,
+        "payment_method_reference_id": null,
+        "total_paid_amount": 0.02
+    },
+    "shipping_cost": 0
+}
