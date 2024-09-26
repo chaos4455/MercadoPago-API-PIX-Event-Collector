@@ -240,7 +240,7 @@ Sou **Elias Andrade**, um profissional de TI com mais de 14 anos de experiência
 ## 🎯 Conclusão
 ![Conclusão](https://img.shields.io/badge/Conclusão-red?style=flat-square)
 
-A arquitetura do projeto PixHub MVC V2 Melhorado é projetada para ser modular e escalável, permitindo fácil manutenção e adição de novas funcionalidades. Cada módulo é cuidadosamente organizado para facilitar a navegação e a compreensão do código.
+A arquitetura do projeto PixHub MVC V2 é projetada para ser modular e escalável, permitindo fácil manutenção e adição de novas funcionalidades. Cada módulo é cuidadosamente organizado para facilitar a navegação e a compreensão do código.
 
 ---
 
