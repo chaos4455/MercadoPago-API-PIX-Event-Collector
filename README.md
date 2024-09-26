@@ -55,19 +55,19 @@ Sou **Elias Andrade**, um profissional de TI com mais de 14 anos de experiência
 ## 📁 Projeto Principal
 ![Projeto Principal](https://img.shields.io/badge/Projeto%20Principal-blue?style=flat-square)
 
-- **`F:\MEGASYNC\projeto-pixhub-mvc-v2-melhorado`**  
+- **`\projeto-pixhub-mvc-v2-melhorado`**  
   O diretório raiz do projeto, que contém todos os componentes do aplicativo.
 
 ### 📁 My Flask App
 ![My Flask App](https://img.shields.io/badge/My%20Flask%20App-orange?style=flat-square)
 
-- **`F:\MEGASYNC\projeto-pixhub-mvc-v2-melhorado\my_flask_app`**  
+- **`\projeto-pixhub-mvc-v2-melhorado\my_flask_app`**  
   O diretório principal do aplicativo Flask, contendo todos os módulos e funcionalidades.
 
 #### 📁 App
 ![App](https://img.shields.io/badge/App-red?style=flat-square)
 
-- **`F:\MEGASYNC\projeto-pixhub-mvc-v2-melhorado\my_flask_app\app`**  
+- **`\projeto-pixhub-mvc-v2-melhorado\my_flask_app\app`**  
   Este diretório contém os componentes principais do aplicativo.
 
   - **📊 `analytics`**  
@@ -225,7 +225,7 @@ Sou **Elias Andrade**, um profissional de TI com mais de 14 anos de experiência
 ### 📄 Scripts e Utilitários
 ![Scripts e Utilitários](https://img.shields.io/badge/Scripts%20e%20Utilitários-purple?style=flat-square)
 
-- **`F:\MEGASYNC\projeto-pixhub-mvc-v2-melhorado\lista-diretorio-projeto.py`**  
+- **`projeto-pixhub-mvc-v2-melhorado\lista-diretorio-projeto.py`**  
   Script para listar o diretório do projeto, útil para verificação rápida da estrutura.
 
 ## 🔗 Recursos Adicionais
